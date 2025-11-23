@@ -76,7 +76,9 @@ I believe in:
 
 ## 📫 Connect With Me
 🌐 **Portfolio:** https://github.com/meltingwax-19/portfolio-projects
-🔗 **LinkedIn:** https://linkedin.com/in/gad-enwe  
+
+🔗 **LinkedIn:** https://linkedin.com/in/gad-enwe
+
 📧 **Email:** gad.enwe.dev@gmail.com  
 
 ---
