@@ -80,7 +80,8 @@ A personal Angular portfolio built with standalone components and deployed on Fi
 
 ### 🔹 **Exotic Nija Menu**  
 A responsive restaurant landing page built with HTML & CSS.  
-👉 Live:  https://meltingwax-19.github.io/exotic-nija-menu/ 
+👉 Live:  https://meltingwax-19.github.io/exotic-nija-menu/
+
 👉 Repo: https://github.com/meltingwax-19/exotic-nija-menu
 
 ---
