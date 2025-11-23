@@ -71,15 +71,16 @@ This keeps my profile accurate **even as I evolve**.
 ---
 
 ## 🏗️ Featured Projects
-*(Replace these with your actual project links anytime — the layout stays perfect)*
 
 ### 🔹 **NgPortfolioLonely**  
 A personal Angular portfolio built with standalone components and deployed on Firebase.  
 👉 Live: https://portfolio-217f5.web.app  
 👉 Repo: https://github.com/meltingwax-19/new-angular-portfolio
 
+
 ### 🔹 **Exotic Nija Menu**  
 A responsive restaurant landing page built with HTML & CSS.  
+👉 Live:  https://meltingwax-19.github.io/exotic-nija-menu/
 👉 Repo: https://github.com/meltingwax-19/exotic-nija-menu
 
 ---
@@ -99,7 +100,7 @@ A responsive restaurant landing page built with HTML & CSS.
 ## 🌍 Connect With Me
 <p align="left">
   <a href="https://portfolio-217f5.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gad-enye" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gad-enwe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gad.enwe.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
