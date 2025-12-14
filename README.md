@@ -74,9 +74,9 @@ This keeps my profile accurate **even as I evolve**.
 
 ### 🔹 **NgPortfolioLonely**  
 A personal Angular portfolio built with standalone components and deployed on Firebase.  
-👉 Live: https://portfolio-217f5.web.app  
+👉 Live: https://my-new-angular-portfolio.netlify.app/
 
-👉 Repo: https://github.com/meltingwax-19/new-angular-portfolio
+👉 Repo: https://github.com/meltingwax-19/my-new-angular-portfolio.git
 
 
 ### 🔹 **Exotic Nija Menu**  
