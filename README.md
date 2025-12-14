@@ -72,7 +72,7 @@ This keeps my profile accurate **even as I evolve**.
 
 ## 🏗️ Featured Projects
 
-### 🔹 **NgPortfolioLonely**  
+### 🔹 **My Portfolio**  
 A personal Angular portfolio built with standalone components and deployed on Firebase.  
 👉 Live: https://my-new-angular-portfolio.netlify.app/
 
